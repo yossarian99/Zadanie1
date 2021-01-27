@@ -1,1 +1,0 @@
-#define GEN_DEF_GK_HISTORY
