@@ -1,0 +1,2 @@
+ @E_MWV_10    	* L 101  R2_BER     BGK_HFK_TYPE           0x0
+ @E_MWV_11  	* L 101  R3_BER    BGK_MW_TYP  BGK_MWV_TYP  BGK_HEO_TYP	 BGK_BMS_TYP  0x0
