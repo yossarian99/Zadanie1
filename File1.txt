@@ -1,6 +1,6 @@
-  char        *pc;                              /* Hilfspointer                         */
-  UI4         *p4, ref;                         /* Hilfs-Variablen fuer Referenzen      */
-  DD_DZE      *ps_dd;                           /* Definitionsdatei-Pointer             */
-  DF_UW       *ps_df_uw;                        /* Definitionsdatei-Pointer             */
-  UI4          tid, def;                        /* akt.bearbeitete TID                  */
+  char	      *pc;				/* Hilfspointer				*/
+  UI4	      *p4, ref;			        /* Hilfs-Variablen fuer Referenzen	*/
+  DD_DZE      *ps_dd;				/* Definitionsdatei-Pointer		*/
+  DF_UW       *ps_df_uw;			/* Definitionsdatei-Pointer		*/
+  UI4	       tid, def;			/* akt.bearbeitete TID			*/
   UI2          autoreset_min;
