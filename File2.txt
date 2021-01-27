@@ -1,1 +1,6 @@
 #define GEN_DEF_GK_HISTORY
+
+#define GEN_DEF_PARALLEL_MODE
+#define GL_DBGET_MAX_CACHETAB 256             // max 256 Tabellen gleichzeitig im Load-Cache halten
+
+// #define D_GEN_NDEF_DBGET_SMEM
