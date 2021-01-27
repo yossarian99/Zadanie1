@@ -1,0 +1,7 @@
+#. arc_gendef.sa
+msgid "Alignment"
+msgstr "Alignment"
+
+#. arc_gendef.sa
+msgid "Counter"
+msgstr "Zähler"
