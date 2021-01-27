@@ -1,0 +1,4 @@
+ ------------------------------------------------------------------
+ @BV_12                   * B "DageWrapper::1::12" 0x0 A
+ @BV_12_                  *B MMI_PV_GRAPHIC_ID_COMMON_TOPOLOGY_COLOR_ENDSLEEVE 0x0 A                   
+ @BV_20_                  * B MMI_PV_GRAPHIC_ID_ELECTRIC_PRIMARY_SUBSTATION 0x0 A                   
