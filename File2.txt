@@ -1,0 +1,7 @@
+#define D_GEN_NDEF_EXTGEN_START_VIA_SCRIPT    // enable pdmgen running parallel and handle return state
+
+#define D_GEN_DMVERZ_WRITE_EXCLUSIVE
+
+#define D_GEN_BESTANDSPROJEKT_BmtDef         // entfaellt, wenn Version 07.01.627 vorort ausgerollt ist
+
+#define GEN_DEF_GK_HISTORY
